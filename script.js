@@ -153,7 +153,7 @@
         ctx.fillStyle = '#ff5a52'; for (let wy = H - bh + 9; wy < H - 8; wy += 13) ctx.fillRect(bx + 6, wy, 3, 4);
         ctx.fillStyle = '#0a0d13';
       }
-      ctx.fillStyle = '#e9b66d'; ctx.font = '10px monospace'; ctx.fillText('ANK1TVARSE / ARCADE', 18, 25);
+      ctx.fillStyle = '#e9b66d'; ctx.font = '10px monospace'; ctx.fillText('ANK1TVERSE / ARCADE', 18, 25);
     }
     function drawPlayer() {
       const x = player.x, y = player.y;
