@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <rect width="180" height="180" fill="#000" />
+  <g transform="translate(36 44) scale(0.9)" fill="#f2f2f2">
+    <rect x="2" y="10" width="116" height="9" />
+    <polygon points="42,19 50,19 22,90 6,90" />
+    <polygon points="33,61 50,61 50,69 29.9,69" />
+    <rect x="50" y="19" width="10" height="71" />
+    <path fill-rule="evenodd" d="M60 19 A52 35.5 0 0 1 60 90 Z M58 28.5 A38 26 0 0 1 58 80.5 Z" />
+  </g>
+</svg>
