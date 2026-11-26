@@ -1,0 +1,9 @@
+ank1tverse.com uses these open-source libraries and fonts.
+
+React Bits (reactbits.dev) — MIT + Commons Clause. Full text: licenses/react-bits.txt
+  Components used: LightRays, Noise, TargetCursor, Magnet, ScrollReveal, TextPressure
+React, React DOM — MIT
+Motion — MIT
+GSAP (gsap.com) — GreenSock Standard "no charge" license
+Lenis — MIT
+Archivo — SIL Open Font License 1.1 (via Fontsource)
